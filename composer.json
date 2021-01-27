@@ -39,7 +39,8 @@
     "roots/wordpress": "5.6",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/advanced-custom-fields": "^5.9"
+    "wpackagist-plugin/advanced-custom-fields": "^5.9",
+    "wpackagist-plugin/wp-graphql": "^1.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.8",
@@ -53,7 +54,7 @@
   "prefer-stable": true,
   "extra": {
     "installer-paths": {
-      "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin", "wpackagist-plugin/advanced-custom-fields"],
+      "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin", "wpackagist-plugin/advanced-custom-fields", "wpackagist-plugin/wp-graphql"],
       "web/app/plugins/{$name}/": ["type:wordpress-plugin"],
       "web/app/themes/{$name}/": ["type:wordpress-theme"]
     },
