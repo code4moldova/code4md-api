@@ -1,9 +1,9 @@
 {
-    "key": "group_601062111be2a",
+    "key": "group_sponsor_details",
     "title": "Sponsor details",
     "fields": [
         {
-            "key": "field_60106235a9a1b",
+            "key": "field_link",
             "label": "Link",
             "name": "link",
             "type": "url",

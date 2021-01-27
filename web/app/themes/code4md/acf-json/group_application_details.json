@@ -1,9 +1,9 @@
 {
-    "key": "group_601063baa2378",
+    "key": "group_application_details",
     "title": "Application details",
     "fields": [
         {
-            "key": "field_601063c1147c0",
+            "key": "field_domain",
             "label": "Domain",
             "name": "domain",
             "type": "url",
@@ -19,7 +19,7 @@
             "placeholder": "https:\/\/example.com"
         },
         {
-            "key": "field_601063da147c1",
+            "key": "field_link",
             "label": "Link",
             "name": "link",
             "type": "url",
@@ -35,7 +35,7 @@
             "placeholder": "https:\/\/example.com"
         },
         {
-            "key": "field_601063f5147c2",
+            "key": "field_stage",
             "label": "Stage",
             "name": "stage",
             "type": "select",
@@ -61,7 +61,7 @@
             "placeholder": ""
         },
         {
-            "key": "field_6010641cb36c3",
+            "key": "field_sponsors",
             "label": "Sponsors",
             "name": "sponsors",
             "type": "relationship",
@@ -88,7 +88,7 @@
             "return_format": "object"
         },
         {
-            "key": "field_601065bd341f4",
+            "key": "field_volunteers",
             "label": "Volunteers",
             "name": "volunteers",
             "type": "relationship",
@@ -132,5 +132,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1611687559
+    "modified": 1611746394
 }

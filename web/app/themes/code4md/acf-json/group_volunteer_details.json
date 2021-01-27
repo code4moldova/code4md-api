@@ -1,9 +1,9 @@
 {
-    "key": "group_601064fe2a306",
+    "key": "group_volunteer_details",
     "title": "Volunteer details",
     "fields": [
         {
-            "key": "field_60106504b3bd4",
+            "key": "field_job",
             "label": "Job",
             "name": "job",
             "type": "text",
@@ -22,7 +22,7 @@
             "maxlength": ""
         },
         {
-            "key": "field_60106532b3bd5",
+            "key": "field_title",
             "label": "Title",
             "name": "title",
             "type": "text",
@@ -41,7 +41,7 @@
             "maxlength": ""
         },
         {
-            "key": "field_60106542b3bd6",
+            "key": "field_is_staff",
             "label": "Is staff",
             "name": "is_staff",
             "type": "true_false",
@@ -60,7 +60,7 @@
             "ui_off_text": ""
         },
         {
-            "key": "field_6010655cb3bd7",
+            "key": "field_linkedin",
             "label": "LinkedIn",
             "name": "linkedin",
             "type": "url",
@@ -76,7 +76,7 @@
             "placeholder": ""
         },
         {
-            "key": "field_6010656ab3bd8",
+            "key": "field_website",
             "label": "Website",
             "name": "website",
             "type": "url",
@@ -92,7 +92,7 @@
             "placeholder": ""
         },
         {
-            "key": "field_6010657ab3bd9",
+            "key": "field_weight",
             "label": "Weight",
             "name": "weight",
             "type": "number",
